@@ -1,5 +1,5 @@
 
-public class REMETICADO_ACTIVITY{
+public class REMETICADO_JEDRYL_ACTIVITY_1{
     public static void main(String[] args) {
         int x = 10;
         int y = 20;
