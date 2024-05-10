@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class REMETICADO_ACTIVITY_I {
+public class REMETICADO_JEDRYL_ACTIVITY_I {
     public static void main(String[] args) {
        
         double length = getLength();
