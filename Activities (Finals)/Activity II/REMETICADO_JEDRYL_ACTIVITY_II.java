@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class REMETICADO_ACTIVITY_II {
+public class REMETICADO_JEDRYL_ACTIVITY_II {
    
     public static double feetToInches(double feet) {
         
