@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class REMETICADO_JOWARD_Activity_V{
+public class REMETICADO_JEDRYL_Activity_V{
     public static void main (String []args){
 
         int age;  
