@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class REMETICADO_ACTIVITY_V{
+public class REMETICADO_JEDRYL_ACTIVITY_V{
     public static void main(String[]args){
 
         Scanner input = new Scanner(System.in);
