@@ -2,7 +2,7 @@ import java.util.Scanner;
     public class BUHIA_ACTIVITY_ll{
 
         public static void main (String[] args){
-            Scanner keyboard = new Scanner(System.in);
+            Scanner sc = new Scanner(System.in);
             int value;
             System.out.println("Enter your first number");
             int fnum = sc.nextInt();
