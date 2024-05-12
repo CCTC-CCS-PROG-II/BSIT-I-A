@@ -2,11 +2,12 @@ import java.util.Scanner;
     public class BUHIA_ACTIVITY_VI{
         public static void main(String []args){
             Scanner sc = new Scanner(System.in);
-            int sec = 100; 
+            int sec; 
+            
             System.out.println("Enter the Countdown: ");
-            int sec = sc.nextInt();
+            sec = sc.nextInt();
 
-            while(num >=0) {
+            while(sec >=0) {
                 System.out.println(sec);
                 sec--;
             }
