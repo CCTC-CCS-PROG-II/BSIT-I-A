@@ -3,11 +3,12 @@ import java.util.Scanner;
         public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
              
+            System.out.println("Please Enter Score: ");
             int [][]score = new int[5][5];
             
             for(int x=0; x<score.length; x++){
             for(int y=0; y<score.length; y++){
-                System.out.println("Please Enter Score:" + (x + 1) + "-" + (y + 1) + ":");
+                
                 score[x][y] = sc.nextInt();
             }
         }
