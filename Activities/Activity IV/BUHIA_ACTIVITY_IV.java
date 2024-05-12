@@ -16,8 +16,6 @@ public class BUHIA_ACTIVITY_IV {
             case "black":
                 System.out.println("3");
                 break;
-            Default:
-                System.out.println("NOthing");
         }
     }
 }
