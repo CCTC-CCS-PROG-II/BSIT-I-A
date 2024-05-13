@@ -1,4 +1,4 @@
-public class [OLID_ACTIVITY_I]
+public class OLID_ACTIVTY_I {
     public static void main(String[]args){
         int X = 5;
         int X = 5;
