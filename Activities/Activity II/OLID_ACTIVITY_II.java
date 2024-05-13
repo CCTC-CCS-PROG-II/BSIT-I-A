@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class OLID_ACTIVITY_11{
+public class OLID_ACTIVITY_II{
     public static void main (String[] args){
         Scanner keyboard = new Scanner (System.in);
         System.out.print("Enter first number:");
