@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class [OLID_ACTIVTY_I] {
+public class OLID_ACTIVTY_I {
     public static void main(String[] arg) {
         Scanner sc = new Scanner(System.in);
         String[] names = new String [5];
