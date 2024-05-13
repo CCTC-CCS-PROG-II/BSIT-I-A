@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class OLID_ACTIVITY_IV {
     
-    public static void main(String {}args){
+    public static void main(String []args){
         Scanner input = new Scanner(System.in);
         int color;
         System.out.println("Pick a number (1.Red 2.Green 3.Black): ");
