@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class REBIAS_ACT_I {
+public class REBIAS_ACTIVITY_I {
     public static void main(String[] args) {
         int length = 20, width = 40;
         System.out.println("Average: " + length + width / 2);
