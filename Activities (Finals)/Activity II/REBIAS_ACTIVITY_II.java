@@ -1,4 +1,4 @@
-public class REBIAS_ACT_II {
+public class REBIAS_ACTIVITY_II {
     public static double feetToInches(double feet) {
         return feet * 12;
     }
