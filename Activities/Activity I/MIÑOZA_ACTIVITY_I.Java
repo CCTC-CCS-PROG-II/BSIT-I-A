@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class MINOZA_ACTIVITY_I {
+public class MIÑOZA_ACTIVITY_I {
     public static void main(String[] args) {
         
         double var1, var2, var3;
