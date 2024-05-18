@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class CLIMACO_ACTIVITY_VI{
+public class MINOZA_ACTIVITY_VI{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter  the number ofseconds ");
